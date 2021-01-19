@@ -2,7 +2,7 @@
 ## Laravel Recipe
 This is the best resources I found most useful for learning laravel, the roadmap starts from multiple levels, recognize your level and dive in.. 
 
-##php Roadmap 
+## php Roadmap 
 1- Getting to know the basics
 
 Arabic :
@@ -54,10 +54,45 @@ https://www.oreilly.com/library/view/getting-started-with/9781786460226/
 Orilly book is preferred for book readers.
 
 ## First Determine your level:
-###<a href="#beginner">Beginner</a>
+### <a href="#beginner">Beginner</a>
 
-we can start by 
+we can start by the docs, but visual readers won't like it so much :(
+
+1- https://laravel.com/docs/
+
+the best tutorials you will see is at Laracasts.com
+please note :                                                                                                                                                                                                                        
+
+don't install the latest version of laravel, because there are some improvements in laravel versions, so the best thing is to follow the tutorials in the same version as the instructor then see what is new in the later versions  
+
+ https://laracasts.com/series/laravel-6-from-scratch
+
+after you finish the series you will have to know that is new in laravel 7 and 8 .
+
+these two series are 1-hour long series that will tell you everything new to the framework, so you can stay up to date
+
+Laravel 7 : https://laracasts.com/series/whats-new-in-laravel-7
+
+Laravel 8 : https://laracasts.com/series/whats-new-in-laravel-8
+
+after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone
+https://www.youtube.com/watch?v=ImtZ5yENzgE
+
+in the last beginner level you will build a blog website on your own!!
+consider this as a final beginner task 
+you can use this document as reference to system requirements
+
+https://thescipub.com/pdf/ajeassp.2012.266.274.pdf
+
+expected time to finish this phase is fully dependent on your hard work and passion
+
+now you must have basic understanding to the framework that could get you to the next level
 
 
-###<a href="#intermediate">Intermediate</a>
-###<a href="#advanced">Advanced</a>
+
+
+
+
+
+### <a href="#intermediate">Intermediate</a>
+### <a href="#advanced">Advanced</a>
