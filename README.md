@@ -19,15 +19,15 @@ please note :
 
 Arabic :
 
-https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM
+- https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM
 
 English:
 
-https://laracasts.com/series/php-for-beginners
+- https://laracasts.com/series/php-for-beginners
 
 Example projects are a must:
 
-https://www.upgrad.com/blog/php-project-ideas-topics-for-beginners/
+- https://www.upgrad.com/blog/php-project-ideas-topics-for-beginners/
 
 Pick  2-4 projects, search them very well and analyze them then code them in php
 
@@ -35,19 +35,19 @@ Pick  2-4 projects, search them very well and analyze them then code them in php
 
 Arabic :
 
-https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ
+- https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ
 
 English :
 
 You will need to get a subscription
 
-https://laracasts.com/series/object-oriented-bootcamp-in-php
+- https://laracasts.com/series/object-oriented-bootcamp-in-php
 
 https://laracasts.com/series/design-patterns-in-php
 
 If you want free
 
-https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh
+- https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh
 
 But the subscription is preferred.
 
@@ -57,11 +57,11 @@ This book is a must-read and this tutorial is a must-read as well, but it's paid
 
 1- Orilly videos
 
-https://www.oreilly.com/library/view/getting-started-with/9781786460226/
+- https://www.oreilly.com/library/view/getting-started-with/9781786460226/
 
 2- orilly book
 
-[https://www.oreilly.com/library/view/programming-php-4th/9781492054122/](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+- [https://www.oreilly.com/library/view/programming-php-4th/9781492054122/](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
 
 Orilly book is preferred for book readers.
 
@@ -72,9 +72,10 @@ we can start by the docs, but visual readers won't like it so much :(
 
 if you like reading ( if not skip to tutorials ) both would be great!
 
-1- https://laravel.com/docs/
+ - https://laravel.com/docs/
 
-2- laravel up and running 2nd edition
+
+ - laravel up and running 2nd edition
 
 the best tutorials you will see is at Laracasts.com
 please note :                                                                                                                                                                                                                        
@@ -84,31 +85,33 @@ please note :
 - some courses at Laracasts require subscription ( if it needs i will mention it and give alternatives but laracasts is the best!)
 
 ### The basics and beyond
- https://laracasts.com/series/laravel-6-from-scratch
+ - https://laracasts.com/series/laravel-6-from-scratch
 
 after you finish the series you will have to know that is new in laravel 7 and 8 .
 
 these two series are 1-hour long series that will tell you everything new to the framework, so you can stay up to date
 
-Laravel 7 : https://laracasts.com/series/whats-new-in-laravel-7
+Laravel 7 : 
+- https://laracasts.com/series/whats-new-in-laravel-7
 
-Laravel 8 : https://laracasts.com/series/whats-new-in-laravel-8
+Laravel 8 : 
+- https://laracasts.com/series/whats-new-in-laravel-8
 
 after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will 
 ### build an instagram clone ( project playlist )
-https://www.youtube.com/watch?v=ImtZ5yENzgE
+- https://www.youtube.com/watch?v=ImtZ5yENzgE
 
 ### projects you will apply ( on your own with search and referring to docs ) after finishing the previous
 in the last beginner level you will build a blog website and/or e-business website on your own!!
 consider this as a final beginner task 
 you can use this document as reference to system requirements
 
-https://thescipub.com/pdf/ajeassp.2012.266.274.pdf
+- https://thescipub.com/pdf/ajeassp.2012.266.274.pdf
 
 or you can use a design template and turn it to a complete website:
 
 example :  
-https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/
+- https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/
 
 note that admin dashboard is required !!
 
@@ -116,7 +119,7 @@ you can use any admin dashboard (mentioned in the slides)
 
 the second task is to make yourself a website cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard 
 you can use any of these templates :
-https://bootstrapmade.com/bootstrap-resume-cv-templates/
+- https://bootstrapmade.com/bootstrap-resume-cv-templates/
 
 
 
@@ -131,39 +134,39 @@ now you need to be familiar with some advanced topics such as:
 
 ### testing laravel:  
 
-https://laracasts.com/series/build-a-laravel-app-with-tdd 
+- https://laracasts.com/series/build-a-laravel-app-with-tdd 
 
 needs "laracasts subscription" totally worth it!
 
 or 
 
-https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y
+- https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y
 
 after you finish those try this framework for easier testing:
 
 pest framework:
 
-https://www.youtube.com/watch?v=lEvau6CgqPE
+- https://www.youtube.com/watch?v=lEvau6CgqPE
 
 
 ### Laravel package development :
 
 
-https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu
+- https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu
 
 ### Building API 
-1- https://www.youtube.com/watch?v=mgdMeXkviy8
+- 1- https://www.youtube.com/watch?v=mgdMeXkviy8
 
-2- https://www.youtube.com/watch?v=TTK8uQOjpT0
+- 2- https://www.youtube.com/watch?v=TTK8uQOjpT0
 
 
 ### Deployment
-1- deploy on digital oceans : https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3
+- 1- deploy on digital oceans : https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3
 
-2- deploy on shared hosting : https://www.youtube.com/watch?v=6g8G3YQtQt4
+- 2- deploy on shared hosting : https://www.youtube.com/watch?v=6g8G3YQtQt4
 
 ### Useful laravel packages
-https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f
+- https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f
 
 
 now we will finish this phase by this playlist:
@@ -171,7 +174,7 @@ now we will finish this phase by this playlist:
 
 ### Building e-commerce application :
 
-https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR
+- https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR
 
 the final task is to choose and think of an idea and apply it from the ground up..
 apply all the steps before coding:
@@ -187,3 +190,24 @@ the application will contain the following:
 
 ### <a href="#advanced">Advanced</a>
 I don't think you will need any guidance when you reach that level!
+   
+
+### if you are interested in the TALL stack, you can learn them here..
+
+Tailwind css:
+Arabic :
+
+- https://www.youtube.com/playlist?list=PLfDx4cQoUNOY1nRXPd3o03lVQzpppY9xe
+
+English :
+- https://scrimba.com/course/gtailwind
+
+Laravel livewire:
+the official documentation has screencast
+- https://laravel-livewire.com/screencasts/installation
+
+Alpine js:
+- https://www.youtube.com/watch?v=VerLjLcXsTk
+
+
+
