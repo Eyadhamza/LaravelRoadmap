@@ -2,6 +2,18 @@
 ## Laravel Recipe
 This is the best resources I found most useful for learning laravel, the roadmap starts from multiple levels, recognize your level and dive in.. 
 
+please note : 
+- I will mention the best resources in my opinion
+- Most of the useful resources are in english but if you have difficulties in english you will overcome them overtime
+- most of the resources I mentioned are free, but some requires subscription fee, but I will give alternatives
+- below you will see the following content:
+    - php roadmap
+    - laravel roadmap 
+    - resources to learn laravel livewire 
+    - resources to learn Tailwind css 
+    - resources to learn alpine js 
+    
+        
 ## php Roadmap 
 1- Getting to know the basics
 
