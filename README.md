@@ -103,11 +103,64 @@ expected time to finish this phase is fully dependent on your hard work and pass
 
 now you must have basic understanding to the framework that could get you to the next level
 
-
-
-
-
-
-
 ### <a href="#intermediate">Intermediate</a>
+now you need to be familiar with some advanced topics such as:
+
+### testing laravel:  
+
+https://laracasts.com/series/build-a-laravel-app-with-tdd 
+
+needs "laracasts subscription" totally worth it!
+
+or 
+
+https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y
+
+after you finish those try this framework for easier testing:
+
+pest framework:
+
+https://www.youtube.com/watch?v=lEvau6CgqPE
+
+
+### Laravel package development :
+
+
+https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu
+
+### Building API 
+1- https://www.youtube.com/watch?v=mgdMeXkviy8
+
+2- https://www.youtube.com/watch?v=TTK8uQOjpT0
+
+
+### Deployment
+1- deploy on digital oceans : https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3
+
+2- deploy on shared hosting : https://www.youtube.com/watch?v=6g8G3YQtQt4
+
+### Useful laravel packages
+https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f
+
+
+now we will finish this phase by this playlist:
+
+
+### Building e-commerce application :
+
+https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR
+
+the final task is to choose and think of an idea and apply it from the ground up..
+apply all the steps before coding:
+- erd
+- system models
+- system requirements 
+- UML diagrams 
+the application will contain the following:
+- admin dashboard 
+- api 
+- testing 
+
+
 ### <a href="#advanced">Advanced</a>
+I don't think you will need any guidance when you reach that level!
