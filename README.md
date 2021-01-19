@@ -78,11 +78,21 @@ Laravel 8 : https://laracasts.com/series/whats-new-in-laravel-8
 after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone
 https://www.youtube.com/watch?v=ImtZ5yENzgE
 
-in the last beginner level you will build a blog website on your own!!
+in the last beginner level you will build a blog website and/or e-business website on your own!!
 consider this as a final beginner task 
 you can use this document as reference to system requirements
 
 https://thescipub.com/pdf/ajeassp.2012.266.274.pdf
+
+or you can use a design template and turn it to a complete website:
+
+example :  
+https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/
+
+note that admin dashboard is required !!
+
+you can use any admin dashboard (mentioned in the slides)
+
 
 expected time to finish this phase is fully dependent on your hard work and passion
 
