@@ -53,18 +53,25 @@ https://www.oreilly.com/library/view/getting-started-with/9781786460226/
 
 Orilly book is preferred for book readers.
 
-## First Determine your level:
+## Laravel Roadmap:
 ### <a href="#beginner">Beginner</a>
 
 we can start by the docs, but visual readers won't like it so much :(
 
+if you like reading ( if not skip to tutorials ) both would be great!
+
 1- https://laravel.com/docs/
+
+2- laravel up and running 2nd edition
 
 the best tutorials you will see is at Laracasts.com
 please note :                                                                                                                                                                                                                        
 
-don't install the latest version of laravel, because there are some improvements in laravel versions, so the best thing is to follow the tutorials in the same version as the instructor then see what is new in the later versions  
+- don't install the latest version of laravel, because there are some improvements in laravel versions, so the best thing is to follow the tutorials in the same version as the instructor then see what is new in the latter versions  
 
+- some courses at Laracasts require subscription ( if it needs i will mention it and give alternatives but laracasts is the best!)
+
+### The basics and beyond
  https://laracasts.com/series/laravel-6-from-scratch
 
 after you finish the series you will have to know that is new in laravel 7 and 8 .
@@ -75,9 +82,11 @@ Laravel 7 : https://laracasts.com/series/whats-new-in-laravel-7
 
 Laravel 8 : https://laracasts.com/series/whats-new-in-laravel-8
 
-after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone
+after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will 
+### build an instagram clone ( project playlist )
 https://www.youtube.com/watch?v=ImtZ5yENzgE
 
+### projects you will apply ( on your own with search and referring to docs ) after finishing the previous
 in the last beginner level you will build a blog website and/or e-business website on your own!!
 consider this as a final beginner task 
 you can use this document as reference to system requirements
@@ -102,6 +111,8 @@ https://bootstrapmade.com/bootstrap-resume-cv-templates/
 expected time to finish this phase is fully dependent on your hard work and passion
 
 now you must have basic understanding to the framework that could get you to the next level
+   
+
 
 ### <a href="#intermediate">Intermediate</a>
 now you need to be familiar with some advanced topics such as:
