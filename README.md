@@ -93,6 +93,11 @@ note that admin dashboard is required !!
 
 you can use any admin dashboard (mentioned in the slides)
 
+the second task is to make yourself a website cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard 
+you can use any of these templates :
+https://bootstrapmade.com/bootstrap-resume-cv-templates/
+
+
 
 expected time to finish this phase is fully dependent on your hard work and passion
 
