@@ -21,13 +21,41 @@ please note :
 you will need to know the basics of computer science and how web application works such as:
 
 - Basics of computer science (variables, conditions, memory, file system)
+  - https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
 - Basics of how the web works 
+  - ENGLISH:
+    
+  - [https://www.youtube.com/watch?v=iYM2zFP3Zn0](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
+  - ARABIC:
+
+  - [https://www.youtube.com/watch?v=PsdimP_-TKY](https://www.youtube.com/watch?v=PsdimP_-TKY) مش لازم تطبق وراه افهم بس الافكار
+    
+
 - Basics of API and REST architectural style
 - Client-Server style
 - Sufficient knowledge in Data Structure
 - Sufficient knowledge in Database 
-- 
+    
+- Sufficient knowledge in html and css
+    - HTML >>
+    - ARABIC :
 
+    - [https://www.youtube.com/playlist?list=PLDoPjvoNmBAwClZ1PDcjWilxp9YERUbNt](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwClZ1PDcjWilxp9YERUbNt)
+
+    - ENGLISH :
+
+    - [https://www.youtube.com/watch?v=pQN-pnXPaVg](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+
+    - CSS
+
+    - ARABIC :
+
+    - [https://www.youtube.com/playlist?list=PLDoPjvoNmBAzAeIcXA3_JsmSkPKOs9W-Y](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzAeIcXA3_JsmSkPKOs9W-Y)
+
+    - ENGLISH :
+
+    - [https://www.youtube.com/watch?v=1Rs2ND1ryYc](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 ## php Roadmap 
 1- Getting to know the basics
 
