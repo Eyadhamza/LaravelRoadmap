@@ -14,6 +14,7 @@ please note :
     - resources to learn Tailwind css 
     - resources to learn alpine js 
     - Some skills and concepts you will need to master
+    - Bonus repo
     
 ## Prerequisites 
 ####(skip what you already familiar with)
@@ -314,5 +315,6 @@ or
 
 - [https://www.youtube.com/watch?v=rJesac0_Ftw](https://www.youtube.com/watch?v=rJesac0_Ftw)
 
-apply those in vue
-
+if you ever decided to be a full stack after your journey in Back-end :
+check this repo
+https://github.com/Eyadhamza/Front-end-Roadmap
