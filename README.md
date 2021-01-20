@@ -296,3 +296,23 @@ Alpine js:
 - https://www.youtube.com/watch?v=VerLjLcXsTk
 
 ### Some skills and concepts you will need to master
+#### 1-Git & GITHUB
+
+Arabic :
+
+- [https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+
+English :
+
+- [https://www.youtube.com/watch?v=RGOj5yH7evk](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+or
+
+- [https://laracasts.com/series/git-me-some-version-control](https://laracasts.com/series/git-me-some-version-control) (needs subscription)
+
+#### AJAX AND JSON
+
+- [https://www.youtube.com/watch?v=rJesac0_Ftw](https://www.youtube.com/watch?v=rJesac0_Ftw)
+
+apply those in vue
+
