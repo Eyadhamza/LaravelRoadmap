@@ -7,13 +7,27 @@ please note :
 - Most of the useful resources are in english but if you have difficulties in english you will overcome them overtime
 - most of the resources I mentioned are free, but some requires subscription fee, but I will give alternatives
 - below you will see the following content:
+    - Prerequisites
     - php roadmap
     - laravel roadmap 
     - resources to learn laravel livewire 
     - resources to learn Tailwind css 
     - resources to learn alpine js 
+    - Some skills and concepts you will need to master
     
-        
+## Prerequisites 
+####(skip what you already familiar with)
+
+you will need to know the basics of computer science and how web application works such as:
+
+- Basics of computer science (variables, conditions, memory, file system)
+- Basics of how the web works 
+- Basics of API and REST architectural style
+- Client-Server style
+- Sufficient knowledge in Data Structure
+- Sufficient knowledge in Database 
+- 
+
 ## php Roadmap 
 1- Getting to know the basics
 
@@ -209,5 +223,4 @@ the official documentation has screencast
 Alpine js:
 - https://www.youtube.com/watch?v=VerLjLcXsTk
 
-
-
+### Some skills and concepts you will need to master
