@@ -50,7 +50,19 @@ you will need to know the basics of computer science and how web application wor
     - 2- [https://www.youtube.com/watch?v=7dqpR70OfGw](https://www.youtube.com/watch?v=7dqpR70OfGw)
     
 - Client-Server style
+  - https://www.youtube.com/watch?v=L5BlpPU_muY
+  - https://www.youtube.com/watch?v=Zfmk0GtANNs
+    
+
 - Sufficient knowledge in Data Structure
+  - english : recommended
+
+  - [https://www.youtube.com/watch?v=RBSGKlAvoiM](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+  -  arabic :
+  - [https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS)
+    
+
 - Sufficient knowledge in Database 
     
 - Sufficient knowledge in html and css
