@@ -33,6 +33,22 @@ you will need to know the basics of computer science and how web application wor
     
 
 - Basics of API and REST architectural style
+  - ENGLISH :
+    
+  - 1- [https://www.youtube.com/watch?v=LooL6_chvN4](https://www.youtube.com/watch?v=LooL6_chvN4&t=101s)
+
+  - 2- [https://www.youtube.com/watch?v=s7wmiS2mSXY](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+
+  - 3- [https://www.youtube.com/watch?v=6STSHbdXQWI](https://www.youtube.com/watch?v=6STSHbdXQWI)
+
+  - Arabic :
+
+   - 1- [https://www.youtube.com/watch?v=JnVe0PtR3TA](https://www.youtube.com/watch?v=JnVe0PtR3TA)
+    
+    - or
+
+    - 2- [https://www.youtube.com/watch?v=7dqpR70OfGw](https://www.youtube.com/watch?v=7dqpR70OfGw)
+    
 - Client-Server style
 - Sufficient knowledge in Data Structure
 - Sufficient knowledge in Database 
