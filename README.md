@@ -64,7 +64,23 @@ you will need to know the basics of computer science and how web application wor
     
 
 - Sufficient knowledge in Database 
+    - english :
+
+    - [https://www.youtube.com/watch?v=HXV3zeQKqGY&t=22s](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=22s)
+
+    -  Arabic :
+
+    - [https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+    - ERD : 
+        - English : 
+          - 1- https://www.youtube.com/watch?v=QpdhBUYk7Kk
+          - 2- https://www.youtube.com/watch?v=-CuY5ADwn24
+        - Arabic : 
+            - https://www.youtube.com/playlist?list=PL8F16BAACB5FF94C7
     
+
+        
+
 - Sufficient knowledge in html and css
     - HTML >>
     - ARABIC :
