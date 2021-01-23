@@ -289,7 +289,8 @@ Arabic :
 - https://www.youtube.com/playlist?list=PLfDx4cQoUNOY1nRXPd3o03lVQzpppY9xe
 
 English :
-- https://scrimba.com/course/gtailwind
+- https://scrimba.com/course/gtailwind +
+- https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR
 
 Laravel livewire:
 the official documentation has screencast
