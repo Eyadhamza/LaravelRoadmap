@@ -219,6 +219,8 @@ now you must have basic understanding to the framework that could get you to the
 ### <a href="#intermediate">Intermediate</a>
 now you need to be familiar with some advanced topics such as:
 
+### laravel best practices
+    - https://github.com/alexeymezenin/laravel-best-practices
 ### testing laravel:  
 
 - https://laracasts.com/series/build-a-laravel-app-with-tdd 
