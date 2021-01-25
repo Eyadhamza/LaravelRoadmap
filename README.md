@@ -291,6 +291,8 @@ Arabic :
 English :
 - https://scrimba.com/course/gtailwind +
 - https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR
+- for more tailwind content check the creator of tailwind youtube channel
+- https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ
 
 Laravel livewire:
 the official documentation has screencast
