@@ -219,6 +219,14 @@ now you must have basic understanding to the framework that could get you to the
 ### <a href="#intermediate">Intermediate</a>
 now you need to be familiar with some advanced topics such as:
 
+### Master your editor:  
+
+- phpstorm : https://laracasts.com/series/how-to-be-awesome-in-phpstorm
+
+- Visual studio code : https://laracasts.com/series/visual-studio-code-for-php-developers
+
+
+
 ### laravel best practices
     - https://github.com/alexeymezenin/laravel-best-practices
 ### testing laravel:  
