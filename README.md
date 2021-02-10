@@ -2,6 +2,8 @@
 ## Laravel Recipe
 This is the best resources I found most useful for learning laravel, the roadmap starts from multiple levels, recognize your level and dive in.. 
 
+## Session Slides 
+- https://drive.google.com/file/d/1AI0K_pQKrQkF4A7Yz2ceJ5lQmYzmuZtu/view?usp=sharing
 please note : 
 - I will mention the best resources in my opinion
 - Most of the useful resources are in english but if you have difficulties in english you will overcome them overtime
