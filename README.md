@@ -179,6 +179,9 @@ please note :
 
 ### The basics and beyond
  - https://laracasts.com/series/laravel-6-from-scratch
+### Updates as of 2021/4/1
+ - laracasts updated their playlist for laravel 8, but it's not yet completed, i recommend study both toturials to make sure you fully understand the concepts 
+ - https://laracasts.com/series/laravel-8-from-scratch
 
 after you finish the series you will have to know that is new in laravel 7 and 8 .
 
